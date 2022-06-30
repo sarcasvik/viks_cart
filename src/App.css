@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+#btnhover :hover{
+  font-size: 115%;
+}
+#viklogo{
+  text-shadow: 2px 2px #ff00f2;
+}
+#redbtn{
+  background-color: #F94C66;
+}
+#bluebtn{
+  background-color: #0AA1DD;
+}
